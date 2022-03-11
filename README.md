@@ -1,6 +1,6 @@
 # HEPATITIS DISEASES PREDICTION WITH PYCARET
 
-[PyCaret-Hepatitis-Classification](https://github.com/taofeekaoyusuf/hepatitis-prediction-with-pycaret/blob/main/pycaret.png)
+![PyCaret-Hepatitis-Classification](https://github.com/taofeekaoyusuf/hepatitis-prediction-with-pycaret/blob/main/pycaret.png)
 
 ### A LITTLE ABOUT THIS PROJECT
 
